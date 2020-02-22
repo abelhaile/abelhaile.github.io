@@ -4,7 +4,52 @@
   <meta charset="UTD-8">
   <title>Abel S. Hailemariam</title>
 </head>
+<style>
+h1{
 
+  margin-bottom: 15px;
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  background-color: tomato;
+}
+h2{
+  margin-top: 15px;
+  margin-bottom: 15px;
+  font-size: 40px; 
+  text-align: center; 
+}
+
+h3{
+text-align: center;
+}
+
+img{
+margin-left: auto;
+margin-right:auto;
+display:block;
+}
+p{
+
+text-align: center;
+font-size: 20px;
+font-weight: bold;
+}
+ul{
+text_align: center; 
+font-size: 35px;
+border-style: solid;
+border-width: 5px;
+list-style-position:inside;
+
+}
+body{
+background-color: lightcyan;
+}
+
+
+</style>
 <body>
 <h1>Abel S. Hailemariam</h1>
 
