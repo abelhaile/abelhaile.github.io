@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+  <meta charset="UTD-8">
+  <title>Abel S. Hailemariam</title>
+</head>
+
+<body>
+<h1>Abel S. Hailemariam</h1>
+
+<img src = "https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg" alt="picture of earth"
+
+
+<p>Associate Financial Analyst at Capital Group</p>
+<p>I am currently enrolled at University of California, Irvine taking courses in Data and learning tools such as SQL, Python, HTML etc... </p>
+
+<ul>
+<li><strong>Email:</strong> <a href= "#">ahailemariam77814@gmail.com</a></li>
+</ul>
+
+<table>
+<tr>
+  <th>Books</th>
+  <th>Movies</th>
+</tr>
+<tr>
+  <td>Learning python the Hard Way</td>
+  <td>The God Faather II</td>
